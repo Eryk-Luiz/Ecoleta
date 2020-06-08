@@ -45,6 +45,7 @@ localhost:8080
 # :closed_book: License
 
 Released in 2020.
-This project is under the [MIT license]
+This project is under the [MIT license](https://github.com/Eryk-Luiz/next-level-week/blob/master/LICENSE)
 
-Made with love by [Eryk Luiz](https://github.com/Eryk-Luiz)🚀
+<p align="center"> Made with love by <a href="https://github.com/Eryk-Luiz">Eryk Luiz</a> 🚀</p>
+
