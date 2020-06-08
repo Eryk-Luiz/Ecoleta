@@ -46,7 +46,7 @@ localhost:8080
 
 
 
-<p align="center">Released in 2020. This project is under the<a href="https://github.com/Eryk-Luiz/next-level-week/blob/master/LICENSE">MIT license</a> 🚀</p>
+<p align="center">Released in 2020. This project is under the<a href="https://github.com/Eryk-Luiz/next-level-week/blob/master/LICENSE"> MIT license</a> 🚀</p>
 
 <p align="center"> Made with love by <a href="https://github.com/Eryk-Luiz">Eryk Luiz</a> 🚀</p>
 
