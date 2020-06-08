@@ -33,12 +33,10 @@ $ npm install
 
 -Run the project:
 
-`
-$ npm run start
+` $ npm run start`
 
-`
+
 -Access the project at:
-
 
 `
 localhost:8080
